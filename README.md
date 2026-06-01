@@ -54,6 +54,7 @@ Place project inside:
 
 
 C:\xampp\htdocs\student-management-system
+
 3. Start Server
 
 Open XAMPP Control Panel:
