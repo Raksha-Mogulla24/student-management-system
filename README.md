@@ -85,16 +85,10 @@ Open browser:
 
 http://localhost/student-management-system/
 
-📸 Screenshots
-
-(Add your screenshots here)
-
-
-![Dashboard](screenshots/dashboard.png)
 
 👨‍💻 Author
-Name: Your Name
-GitHub: https://github.com/your-username
+Name: Raksha Mogulla
+GitHub: https://github.com/Raksha-Mogulla24
 ⭐ Support
 
 If you like this project, please give a ⭐ on GitHub.
@@ -103,19 +97,3 @@ If you like this project, please give a ⭐ on GitHub.
 ---
 
 # 🚀 DONE
-
-Just:
-- paste this into `README.md`
-- commit
-- push to GitHub
-
----
-
-If you want next upgrade, I can help you make this:
-
-🔥 Internship-level portfolio project  
-🔥 With login system + roles  
-🔥 With charts dashboard  
-🔥 With live hosting  
-
-Just say: **“make it top 1% project”** 👍
