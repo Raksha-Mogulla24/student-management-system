@@ -61,6 +61,7 @@ Open XAMPP Control Panel:
 
 Start Apache
 Start MySQL
+
 4. Create Database
 
 Open:
